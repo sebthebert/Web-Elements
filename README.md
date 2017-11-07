@@ -10,6 +10,8 @@ https://gionkunz.github.io/chartist-js/
 
 https://d3js.org/
 
+https://frappe.github.io/charts/
+
 
 ## Icons
 
