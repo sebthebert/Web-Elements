@@ -4,6 +4,8 @@ Stuff to build nice WebApps
 
 ## Charts
 
+http://www.chartjs.org
+
 https://gionkunz.github.io/chartist-js/
 
 https://d3js.org/
